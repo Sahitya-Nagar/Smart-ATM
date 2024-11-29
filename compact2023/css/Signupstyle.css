@@ -1,0 +1,68 @@
+body{
+    background-color: lightsalmon;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: red;
+}
+
+p{
+    color: aqua;    
+}
+
+.title{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-color: black;
+    width: 500px;
+    height: 45px;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+    font-size: 40px;
+    line-height: 45px;
+    font-style: italic;
+}
+
+.txtbx{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgrey;
+    font-size: 20px;
+    line-height: 30px;
+    border-radius: 10px;
+}
+
+/* # means whoes id is btn than this properties is used */
+#btn{
+    background-color: yellowgreen;
+    color: antiquewhite;
+    font-size: 25px;
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    background-color: coral;
+    margin-top : 10px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+
+.rbchk{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+}
